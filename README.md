@@ -10,6 +10,7 @@ I am a person who loves football, the front-end and good food
 - 📫 How to reach me: my github here => FaroukDev
 
 ```
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 ```
 ### 6 months training in Cloud Development.
 
@@ -76,4 +77,4 @@ Projects:
 **Bot discord**
 ```
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
