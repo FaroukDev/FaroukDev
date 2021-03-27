@@ -34,6 +34,7 @@ Preparing for AZ-900 and AZ-204 certifications
 
 Always writing clean and testable code!
 ```
+[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
 ```
 #### Unit testing with Pytest (python) and Mocha/Chai/Sinon (nodejs).
 
