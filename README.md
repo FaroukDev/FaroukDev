@@ -1,7 +1,7 @@
 **Hi there 👋 <𝚌𝚘𝚍𝚎𝚛𝚜/>! ,I am Farouk**:
 ```
 "some words about me"
-I am a person who loves football, the front-end and good food
+I am a person who loves football, the front-end, cloud and good food
 ```
 ```
 - 🔭 I’m currently working on Azure, Docker, javascript, python, TDD and many more tools.
